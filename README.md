@@ -5,7 +5,7 @@ Home: https://github.com/andrivet/python-asn1
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Python-ASN1 is a simple ASN.1 encoder and decoder for Python 2.6+ and 3.3+.
 

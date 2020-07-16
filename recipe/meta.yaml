@@ -1,5 +1,5 @@
 {% set name = "asn1" %}
-{% set version = "2.4.0" %}
+{% set version = "2.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 16ce599d499d4937cfa94bf8efbaa928d4a283a632a5eeb49acb4faae062b2b2
+  sha256: 6931fc43f3249cb4bfd17fd68dd2a9fae130bd734ff81b1753b944369d62f018
 
 build:
   number: 0
