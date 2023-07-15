@@ -16,14 +16,19 @@ build:
 
 requirements:
   host:
+    - python >=3.6
     - pip
-    - python
   run:
-    - python
+    - python >=3.6
+    - enum-compat
 
 test:
   imports:
     - asn1
+  commands:
+    - pip check
+  requires:
+    - pip
 
 about:
   home: https://github.com/andrivet/python-asn1
