@@ -1,11 +1,11 @@
-About asn1
-==========
+About asn1-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asn1-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/andrivet/python-asn1
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asn1-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python-ASN1 is a simple ASN.1 encoder and decoder for Python 2.6+ and 3.3+.
 
